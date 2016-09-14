@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\@Dev\QuickOSC\app\libs\javaosc.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0743a400fc893d69c7ec1bb4ad22a7b0e8d6c333">
+        <dex dex="H:\@Dev\QuickOSC\app\build\intermediates\transforms\dex\debug\folders\1000\2\javaosc_319477e8689112b33e16536bca4dde4ad66389ce\classes.dex" />
+    </item>
+    <item
+        jar="H:\@Dev\QuickOSC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d17e446e15a7dcec4d653f6a4a259e714a32a764">
+        <dex dex="H:\@Dev\QuickOSC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_69df37c3dd75bf666cbc7fc2f701dc24b31b65b1\classes.dex" />
+    </item>
+    <item
+        jar="H:\@Dev\QuickOSC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1c740a227a1a284bb4e604ff79a5a52dcb4a338e">
+        <dex dex="H:\@Dev\QuickOSC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_66ef1235fca5b9841e7cf9d02ec49620e09eca64\classes.dex" />
+    </item>
+
+</items>

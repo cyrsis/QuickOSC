@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seekbar_osc_layout.xml",
+        "source": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\src\\main\\res\\layout\\seekbar_osc_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_about.xml",
+        "source": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\src\\main\\res\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toggle_osc_layout.xml",
+        "source": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\src\\main\\res\\layout\\toggle_osc_layout.xml"
+    },
+    {
+        "merged": "H:\\@Dev\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_about.xml",
+        "source": "H:\\@Dev\\QuickOSC\\app\\src\\main\\res\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_osc_layout.xml",
+        "source": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\src\\main\\res\\layout\\button_osc_layout.xml"
+    },
+    {
+        "merged": "H:\\@Dev\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "H:\\@Dev\\QuickOSC\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "H:\\@Dev\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toggle_osc_layout.xml",
+        "source": "H:\\@Dev\\QuickOSC\\app\\src\\main\\res\\layout\\toggle_osc_layout.xml"
+    },
+    {
+        "merged": "H:\\@Dev\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_osc_layout.xml",
+        "source": "H:\\@Dev\\QuickOSC\\app\\src\\main\\res\\layout\\button_osc_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "H:\\@Dev\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_network_settings.xml",
+        "source": "H:\\@Dev\\QuickOSC\\app\\src\\main\\res\\layout\\dialog_network_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_network_settings.xml",
+        "source": "C:\\Users\\cyber\\AndroidStudioProjects\\QuickOSC\\app\\src\\main\\res\\layout\\dialog_network_settings.xml"
+    },
+    {
+        "merged": "H:\\@Dev\\QuickOSC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\seekbar_osc_layout.xml",
+        "source": "H:\\@Dev\\QuickOSC\\app\\src\\main\\res\\layout\\seekbar_osc_layout.xml"
+    }
+]
